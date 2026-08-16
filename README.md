@@ -1,35 +1,61 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Tasso!
+# Olá, eu sou o Tasso Henrique! 👋
 
-<details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
-  <br>
-  I'm Full Stack Web Developer. Of course I prefer the backend, but I'm always looking to improve the frontend too.
-  I love technology, since I was a child my hobby was the computer.
-  <br>
-  Full Stack Web Developer
-  <br>
-  #batch690 Le Wagon!  
-</details>
+Desenvolvedor Web focado em construir aplicações eficientes e funcionais. Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 
-## Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-</div>
+---
 
-### I'm learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+### 🚀 Sobre Mim
 
+- 🔭 Atualmente trabalhando e desenvolvendo projetos com foco em **Ruby on Rails**, **JavaScript** e **React**.
+- 🌱 **Foco atual:** Estudando e aprofundando conhecimentos em **Python**.
+- 💬 Vamos conversar sobre desenvolvimento web, boas práticas ou novos projetos!
 
+---
 
+### 🛠️ Tecnologias & Ferramentas
 
-#### You know how to reach me?
+<p align="left">
+  <!-- Backend & Linguagens -->
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white" alt="Rails" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  
+  <!-- Ferramentas & Versionamento -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassorodrigues/)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/tassohenrique_/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/tassohenrique)](github.com/tassohenrique)
+---
+
+### 🌱 Atualmente Aprendendo
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tassohenrique&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassohenrique&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
+</p>
+
+---
+
+### 📬 Conecte-se comigo
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
