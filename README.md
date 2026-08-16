@@ -40,22 +40,13 @@ Desenvolvedor Web focado em construir aplicações eficientes e funcionais. Apai
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tassohenrique&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tassohenrique&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas" />
-</p>
-
----
-
 ### 📬 Conecte-se comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/tassorodrigues/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/https://www.instagram.com/tassohro/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
