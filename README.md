@@ -6,7 +6,7 @@ Desenvolvedor Web focado em construir aplicações eficientes e funcionais. Apai
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando e desenvolvendo projetos com foco em **Ruby on Rails**, **JavaScript** e **React**.
+- 🔭 Atualmente trabalhando e desenvolvendo projetos com foco em **Python**,  **JavaScript** e **React**.
 - 🌱 **Foco atual:** Estudando e aprofundando conhecimentos em **Python**.
 - 💬 Vamos conversar sobre desenvolvimento web, boas práticas ou novos projetos!
 
