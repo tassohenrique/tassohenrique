@@ -1,4 +1,4 @@
-# Olá, eu sou o Tasso Henrique! 👋
+# Olá, eu sou o Tasso! 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira para Desenvolvimento Web, com experiência prévia em gestão de projetos tecnológicos e relacionamento com clientes — buscando minha primeira oportunidade como **estagiário(a)** ou **desenvolvedor(a) júnior**.
 
@@ -43,12 +43,12 @@ Os demais projetos fixados estão logo abaixo, no meu perfil 👇
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tassohenrique&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tassohenrique&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats-sigma-black.vercel.app/api?username=tassohenrique&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=tassohenrique&layout=compact&theme=dark)
 
 ---
 
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassorodrigues/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tassohro@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
