@@ -41,13 +41,6 @@ Os demais projetos fixados estão logo abaixo, no meu perfil 👇
 
 ---
 
-### 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats-sigma-black.vercel.app/api?username=tassohenrique&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats-sigma-black.vercel.app/api/top-langs/?username=tassohenrique&layout=compact&theme=dark)
-
----
-
 ### 📬 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tassorodrigues/)
